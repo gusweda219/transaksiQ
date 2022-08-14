@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "450721852609",
+    "project_id": "transaksiq-99fca",
+    "storage_bucket": "transaksiq-99fca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450721852609:android:9475f0bede83c6b5d27840",
+        "android_client_info": {
+          "package_name": "com.example.transaksiq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450721852609-qq80a4i1gq9i9ra4am2omknhbela3vr5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcFSxge1mcwS226vtRE3-evwS5vMj0HU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450721852609-qq80a4i1gq9i9ra4am2omknhbela3vr5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
